@@ -25,7 +25,7 @@
 
 ## 🖼️ Live Preview
 
-![News App Screenshot](./Screenshot%202025-07-26%20120743.png)
+![News App Screenshot](https://github.com/harsit6299/NewsApp/blob/8abc7307c00a94bebfc78da01f7bfb36fa2ec559/Snapshot%20(2).png)
 
 > *A modern, responsive UI showcasing headlines, categories, and news fetched from public APIs.*
 
