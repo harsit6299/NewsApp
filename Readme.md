@@ -51,5 +51,5 @@
 
 ---
 
-
+🔍 [Live Demo](https://harsit6299.github.io/NewsApp/)
 
